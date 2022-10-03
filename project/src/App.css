@@ -1,0 +1,33 @@
+*{
+  font-family: cursive;
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+/* Header */
+
+.nav{
+  height: 160px;
+  width: 100%;
+  background-color: rgb(31, 31, 105);
+  display: flex;
+  padding: 10px 20px;
+  align-items: center;
+  gap: 20px;
+  border-radius: 5px;
+  box-shadow: royalblue 5px 5px 3px;
+  margin: 0 0 20px 0;
+  color: aliceblue;
+}
+
+.nav .nav-img{
+  width: 150px;
+  height: 120px;
+  border-radius: 50%;
+  box-shadow: yellowgreen 2px 3px 4px;
+}
+
+/* Main */
+
+
